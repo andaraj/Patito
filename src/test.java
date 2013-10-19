@@ -7,9 +7,8 @@
  *
  * @author Jaime Andara
  */
-public class textgit {
+public class test {
     public static void main(String[] args) {
-        System.out.println("Super pato");
+        System.out.println("Soy un patito");
     }
-    
 }
